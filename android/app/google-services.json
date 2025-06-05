@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "235793409506",
+    "project_id": "ahdus-task",
+    "storage_bucket": "ahdus-task.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235793409506:android:694983f6257373122505bb",
+        "android_client_info": {
+          "package_name": "com.ahdustask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRGusaVLKk0M9Vl1y4Q49LeqwrzJ8pWcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
